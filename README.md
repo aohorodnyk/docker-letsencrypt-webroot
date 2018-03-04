@@ -6,6 +6,9 @@ Letsencrypt cert auto getting and renewal script based on [letsencrypt](https://
   - [GitHub](https://github.com/aohorodnyk/docker-letsencrypt-webroot)
   - [DockerHub](https://hub.docker.com/r/aohorodnyk/letsencrypt-webroot/)
 
+## WARNING
+This is old repository and it doesn't tested a lot of time. If you want to use it and have some issue, I like to get feedback and try to help you. Preferable feedback way to communicate is an issue.
+
 ## Usage
 
 * First, you need to set up your web server so that it gave the contents of the `/.well-known/acme-challenge` directory properly. 
